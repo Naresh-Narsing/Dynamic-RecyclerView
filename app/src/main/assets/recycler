@@ -1,0 +1,72 @@
+{
+  "SectionList": [
+    {
+      "sectionTitle": "TRENDS",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1462948655_anarkalisunder1499_110516_tile_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DEALS",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463484782_thelovelylehengasaree_170516_hero_app.jpg"
+        },
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463405203_newarrivals_160516_hero_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "POPULAR ON CRAFTSVILLA",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1462949040_irresistiblehotsellers_110516_tile_app.jpg"
+        },
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/wishlistcollection_productid_1_tile_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "CATEGORIES",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463405150_fusionfrenzy_160516_hero_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "SHOP BY COLOR",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463493991_lehengas40off_170516_tile_app.jpg"
+        },
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463494014_jewellery50off_170516_tile_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "DISCOUNT",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463493962_sarees60off_170516_tile_app.jpg"
+        },
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463493974_salwarsuits70off_170516_tile_app.jpg"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "NEW ARRIVALS",
+      "ImageArray": [
+        {
+          "image_url": "http://assets1.craftsvilla.com/banner-craftsvilla/cvfeeds/1463484782_thelovelylehengasaree_170516_hero_app.jpg"
+        }
+      ]
+    }
+  ]
+}
